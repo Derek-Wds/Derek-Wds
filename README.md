@@ -1,10 +1,6 @@
 ### Hi there :wave:, this is Dingsu Wang (Derek).
 [Github](https://github.com/Derek-Wds) | [Twitter](https://twitter.com/Derekwds) | [E-Mail](dingsu.wang@gmail.com)
-
 <div align="center">
-  <br>
-  <br>
-  <br>
   <br>
   <a href="https://wangdingsu.com/">
     <img width="88" height="88" src="https://i.loli.net/2020/08/07/1jcKxA3dNybIZiC.jpg"/>
@@ -21,5 +17,11 @@
       <img width="20" height="20" src="https://i.loli.net/2020/08/07/Nun6ajQCyIlhU2P.png" />
     </a>
   </p>
-  <p>Hi, I'm Derek, a Machine Learning / AI researcher.</p>
+  <p>Hi, I'm a Machine Learning / AI researcher.</p>
 </div>
+
+
+[![Derek's github stats](https://github-readme-stats.vercel.app/api?username=Derek-Wds&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Wds&text_color=000000&title_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
