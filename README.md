@@ -20,8 +20,16 @@
   <p>Hi, I'm a Machine Learning / AI researcher.</p>
 </div>
 
+<details>
+  <summary>Some of my github stats</summary>
+  <br>
 
-[![Derek's github stats](https://github-readme-stats.vercel.app/api?username=Derek-Wds&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Wds&text_color=000000&title_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Derek-Wds&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000&count_private=true&hide=contribs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Wds&text_color=000000&title_color=000000&layout=compact" alt="Derek's Github Stats" />
+</p>
+
+</details>
+
 
 
