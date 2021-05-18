@@ -1,6 +1,6 @@
 ### Hi there :wave:, this is Dingsu Wang (Derek).
 [Github](https://github.com/Derek-Wds) | [Twitter](https://twitter.com/Derekwds) | [E-Mail](dingsu.wang@gmail.com)
-<div align="center">
+<!-- <div align="center">
   <br>
   <a href="https://wangdingsu.com/">
     <img width="88" height="88" src="https://i.loli.net/2020/08/07/1jcKxA3dNybIZiC.jpg"/>
@@ -30,6 +30,6 @@
 </p>
 
 </details>
-
+ -->
 
 
