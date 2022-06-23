@@ -1,4 +1,7 @@
 ### Hi there :wave:, this is Dingsu Wang (Derek).
+<a href="https://www.linkedin.com/in/dingsu-wang/"><img src="https://img.shields.io/badge/-Dingsu Wang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dingsu-wang/"></a>
+<a href="https://komarev.com/ghpvc/?username=Derek-Wds"><img src="https://komarev.com/ghpvc/?username=Derek-Wds" alt="profile"></a>
+
 [Github](https://github.com/Derek-Wds) | [Twitter](https://twitter.com/Derekwds) | [E-Mail](dingsu.wang@gmail.com)
 <!-- <div align="center">
   <br>
